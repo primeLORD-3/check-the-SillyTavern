@@ -9,3 +9,4 @@ node scripts/serve-dist.mjs
 node这样安装
 pkg update
 pkg install nodejs
+大更新:增加了渲染状态栏功能(需要导入角色卡)翻页查看功能
